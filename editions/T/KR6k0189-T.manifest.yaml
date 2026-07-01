@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6k0189/T/v1
+canonical_location: https://kanripo.org/bkk/KR6k0189/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 受用三水要行法
+  identifiers:
+    krp: KR6k0189
+    cbeta: T45n1902
+    cbeta_old_id: T45n1902
+    authorityid: CA0003178
+    json_key: T1902
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T45/T45n1902.xml
+    old_id: T45n1902
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6k0189_000-T.yaml, hash: 'sha256:cf9b65126651b25d3d3b32796a68eaad2be6d360c0598a59d5c294bb23e53eec'}
+  - {seq: 1, filename: KR6k0189_001-T.yaml, hash: 'sha256:f83f22ef86757371a8ad6a35075e94dc3e30b76e578e3370f8fedfeac29420fe'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6k0189_000-T.markers.yaml, hash: 'sha256:edf85118969af0767659f703aca501d3da23fbe3cecd35c54ed0c41a0bd17c97'}
+  - {seq: 1, role: markers, filename: assets/KR6k0189_001-T.markers.yaml, hash: 'sha256:5c797a231495a7c59497e64ceb390327e3d5dd5adfcba8d9c9f9266353b2fe6e'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6k0189_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 1478
+  label: 受用三水要行法
+  type: juan
+  level: 1
+hash: sha256:24568cfbc7c0d54e65bf9ece508bf9cab10c550eb68934da5ddf19dd719dbd01

@@ -1,0 +1,39 @@
+canonical_identifier: bkk:krp/KR6k0189/v1
+canonical_location: https://kanripo.org/bkk/KR6k0189/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 受用三水要行法
+  identifiers:
+    alt_id:
+    - T45n1902
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T45/T45n1902.xml
+    old_id: T45n1902
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR6k0189_000.yaml, hash: 'sha256:cf9b65126651b25d3d3b32796a68eaad2be6d360c0598a59d5c294bb23e53eec'}
+  - {seq: 1, filename: KR6k0189_001.yaml, hash: 'sha256:5983f16e247e520c5ae4379c7a7381b49ae1aaca989b6d8bd1e7d0259b6830ce'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6k0189_001.markers.yaml, hash: 'sha256:3c2ec02933b66249b8eaeb768b474fff13d6565ed26b8d87abb7154503f235f3'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6k0189_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 1478
+  label: 受用三水要行法
+  type: juan
+  level: 1
+hash: sha256:13123148f8cd5605e7a19301f6a2bef147ef8e2de5ff81bc102582eb9c6117ae
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+editions:
+- short: T
