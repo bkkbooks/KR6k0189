@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6k0189/v1
 canonical_location: https://kanripo.org/bkk/KR6k0189/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 受用三水要行法
   identifiers:
@@ -17,10 +17,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6k0189_000.yaml, hash: 'sha256:cf9b65126651b25d3d3b32796a68eaad2be6d360c0598a59d5c294bb23e53eec'}
-  - {seq: 1, filename: KR6k0189_001.yaml, hash: 'sha256:f83f22ef86757371a8ad6a35075e94dc3e30b76e578e3370f8fedfeac29420fe'}
+  - {seq: 1, filename: KR6k0189_001.yaml, hash: 'sha256:2968585c589672b8c8a22b0effe652ae7b88f89b2fa7738604e4061454274951'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6k0189_000.markers.yaml, hash: 'sha256:78d64360647f06e82319ed53c1c79e64002f034a0b2ed3f84f61d4a6b8d928ab'}
-  - {seq: 1, role: markers, filename: assets/KR6k0189_001.markers.yaml, hash: 'sha256:03e3f83c401c144842f07c35da326a9b612001de89a7f4fda6f37df20d434f33'}
+  - {seq: 1, role: markers, filename: assets/KR6k0189_001.markers.yaml, hash: 'sha256:43fcfeb1a53d7ac46261c04f8e016c668c805eaa7d8bb756756ee8c81d3d79b0'}
 table_of_contents:
 - ref:
     seq: 1
@@ -32,6 +32,9 @@ table_of_contents:
   label: 受用三水要行法
   type: juan
   level: 1
-hash: sha256:d73e68b1d6978fb51e9429d36614b056265374ab612f256d5f524eb3236d0e3f
+hash: sha256:588fec1757f4cc866e85c87be3af0083ad8b9e9a3bc0cc9ce9ba40eea01332a1
 editions:
 - short: T
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
